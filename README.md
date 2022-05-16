@@ -1,4 +1,4 @@
-- Hi, I’m @GDBobby
+- Hi, I’m GDBobby
 
 - I’m currently looking for a C++ developer role!
 
