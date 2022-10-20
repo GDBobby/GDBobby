@@ -4,6 +4,6 @@
 
 - Discord: GDBobby#0683
 
--email corey.w108@gmail.com
+-EMail: corey.w108@gmail.com
 
--youtube for my current project https://www.youtube.com/channel/UCZOaLECWQcq76s3lMfl5rcw
+-Youtube: https://www.youtube.com/channel/UCE4ydOGUX5i7uXX0-kFvpMw
