@@ -1,4 +1,4 @@
-- Hi, I’m GDBobby
+Hi, I’m GDBobby. I've been teaching myself programming for about 6 years.
 
 - I’m currently looking for a C++ / Vulkan role!
 
