@@ -10,7 +10,7 @@ Hi, I’m GDBobby. I've been teaching myself programming since 2019.
 * https://github.com/GDBobby/LAB Fully constexpr and cross-platform deterministic Linear Algebra Framework. Mostly finished, just a few minor tweaks are required for being able to support directx. Includes benchmarks against other popular Linear Algebra libraries
 
 # Game Jams (Chronological)
-* [CaCmCl](https://www.youtube.com/watch?v=T4sV4fePOLU) - 2 people 3 day jam - EWE
+* [CaCmCl](https://www.youtube.com/watch?v=T4sV4fePOLU) - 2 people 3 day jam - EWE 
 * [Void's Gaze](https://www.youtube.com/watch?v=60wEogDgLFE) - solo 14 day jam - EWE
 * [Bud World](https://globalgamejam.org/games/2024/bud-world-9) - 3 people 3 day jam - Unreal Engine
 * [Charmington](https://github.com/GDBobby/Charmington) - 3 people 3 day jam - EWE
@@ -23,3 +23,6 @@ Hi, I’m GDBobby. I've been teaching myself programming since 2019.
 
 # Other
 * [Slink Game Design Document](https://docs.google.com/document/d/1A8D_HpU1nSt_gYjsB_xb3CWsHjDwGcZ9qx-E9VTVQY0/edit?usp=sharing)
+* [Hook Library](https://github.com/GDBobby/HookLibrary)
+* [Training Assistant Program](https://github.com/GDBobby/TBFTrainer)
+* [Calculator and Resources for Maple Artale](https://maplecalculator.vercel.app/calculator)
