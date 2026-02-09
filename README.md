@@ -1,9 +1,3 @@
-Hi, I’m GDBobby. I've been teaching myself programming since 2019.
-
-- I’m currently looking for a C++ / Vulkan role!
-
-- Discord: GDBobby#0683
-
 # Long Term Projects
 * https://github.com/GDBobby/VulkanFramework mostly finished, but still in progress from-scratch rewrite of my [former vulkan framework](https://github.com/GDBobby/Eight-Winds-Framework) focusing on modern vulkan and C++ techniques
 * https://github.com/GDBobby/EWEngine Currently doing a from-scratch rewrite of my [former graphic's engine](https://github.com/GDBobby/Eight-Winds-Engine) building on top of my remade vulkan framework
@@ -24,5 +18,7 @@ Hi, I’m GDBobby. I've been teaching myself programming since 2019.
 # Other
 * [Slink Game Design Document](https://docs.google.com/document/d/1A8D_HpU1nSt_gYjsB_xb3CWsHjDwGcZ9qx-E9VTVQY0/edit?usp=sharing)
 * [Hook Library](https://github.com/GDBobby/HookLibrary)
-* [Training Assistant Program](https://github.com/GDBobby/TBFTrainer)
+* [Training Assistant Program for GunZ The Duel](https://github.com/GDBobby/TBFTrainer)
 * [Calculator and Resources for Maple Artale](https://maplecalculator.vercel.app/calculator)
+
+Discord: GDBobby#0683
