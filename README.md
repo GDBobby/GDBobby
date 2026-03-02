@@ -1,3 +1,6 @@
+# Professional Blog
+https://eightwindsengine.wordpress.com/
+
 # Long Term Projects
 * https://github.com/GDBobby/VulkanFramework mostly finished, but still in progress from-scratch rewrite of my [former vulkan framework](https://github.com/GDBobby/Eight-Winds-Framework) focusing on modern vulkan and C++ techniques
 * https://github.com/GDBobby/EWEngine Currently doing a from-scratch rewrite of my [former graphic's engine](https://github.com/GDBobby/Eight-Winds-Engine) building on top of my remade vulkan framework
