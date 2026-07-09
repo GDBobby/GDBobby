@@ -17,6 +17,7 @@ https://eightwindsengine.wordpress.com/
 # Completed Projects
 * [Port of GunZ the Duel from DX9 to Vulkan](https://eightwindsengine.wordpress.com/2025/09/29/upgrading-gunz-the-duel-from-dx9-to-vulkan/)
 * Indefinite Hiatus - [Eight Winds](https://store.steampowered.com/app/2242620/Eight_Winds/)
+* Function Testing Suite - [BATS](https://github.com/GDBobby/Function-Test-Suite)
 
 # Other
 * [Slink Game Design Document](https://docs.google.com/document/d/1A8D_HpU1nSt_gYjsB_xb3CWsHjDwGcZ9qx-E9VTVQY0/edit?usp=sharing)
